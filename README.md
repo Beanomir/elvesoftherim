@@ -1,6 +1,6 @@
 Adds a new xenotype and 2 new factions to world generation or an [b]existing save[/b].
 
-[img]https://i.imgur.com/fGUbXMP.png[/img]
+(https://i.imgur.com/fGUbXMP.png)
 [img]https://i.imgur.com/Ttdaw1z.png[/img]
 
 [img]https://i.imgur.com/4NiZcna.png[/img]
